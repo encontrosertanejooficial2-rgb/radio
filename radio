@@ -1,11 +1,11 @@
 {
-  "stream_url": "http://88.150.230.110:18183/;",
+  "stream_url": "http://88.150.230.110:18183/",
   "app_name": "Rádio Magé Viola",
   "logo_url": "https://i.postimg.cc/7hXmdNkg/ic-launcher-playstore.png",
   "background_url": "https://i.postimg.cc/zXtxkpp5/bg-image.png",
   "bg_tint_color": "#00254d",
   "bg_tint_opacity": 0.05,
-  "live_badge_text": " Ao Vivo",
+  "live_badge_text": "Ao Vivo",
   "live_badge_color": "#09001d",
   "accent_color": "#000d13",
   "autoplay": true,
@@ -19,7 +19,6 @@
   "enable_album_view": true,
   "banner_interval_ms": 10000,
   "sponsor_label": "PATROCINADORES",
-  
 
   "banners": [
     {
@@ -44,7 +43,7 @@
       "bg_color": "#FDCB03",
       "text_color": "#000000",
       "image_url": "https://i.postimg.cc/zGZC6jFL/CLIQUE-AQUI.png",
-      "click_url": ""
+      "click_url": "https://wa.me/351912657212"
     },
     {
       "title": "PATROCINADOR 4",
@@ -77,8 +76,8 @@
       "text_color": "#000000",
       "image_url": "https://i.postimg.cc/3Ncf5vJS/REI-CEL.png",
       "click_url": "https://wa.me/5521981075282?text=%0A"
-    },
-
+    }
+  ],
 
   "social_icons": [
     {
