@@ -18,7 +18,7 @@
   "enable_album_art": false,
   "enable_album_view": true,
   "banner_interval_ms": 10000,
-  "sponsor_label": "PATROCINADORES",
+  "sponsor_label": "CLIQUE NO BANER ABAIXO E FALO DIRETO COM O PATROCINADOR",
 
   "banners": [
     {
