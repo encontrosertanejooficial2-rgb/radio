@@ -78,17 +78,8 @@
       "image_url": "https://i.postimg.cc/3Ncf5vJS/REI-CEL.png",
       "click_url": "https://wa.me/5521981075282?text=%0A"
     },
-    
     {
-    {
-      "title": "",
-      "subtitle": "",
-      "bg_color": "#111111",
-      "text_color": "#FFFFFF",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
-      "click_url": "https://youtube.com/"
-    }
-  ],
+ ],
   "social_icons": [
     {
       "icon": "instagram",
