@@ -2,8 +2,7 @@
   "stream_url": "http://78.129.150.207:24847/;",
   "app_name": "A Mais Caipira de Magé",
   "logo_url": "https://i.postimg.cc/WbPHRdK0/Chat-GPT-Image-15-09-2026-12-59-26.png",
-  "background_url": "https://i.postimg.cc/YSVzbFRR/sertanejo-fundo-escuro.png"
-",
+  "background_url": "https://i.postimg.cc/mrdrKvgf/fundo-violao.jpg",
   "bg_tint_color": "#00254d",
   "bg_tint_opacity": 0.05,
   "live_badge_text": " NO AR",
@@ -116,3 +115,4 @@
     }
   ]
 }
+
